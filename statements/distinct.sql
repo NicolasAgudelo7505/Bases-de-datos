@@ -1,0 +1,3 @@
+SELECT DISTINCT * FROM users;
+
+SELECT DISTINCT birthday FROM users;
