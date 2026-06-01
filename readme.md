@@ -1,0 +1,1 @@
+En este repo voy a estudiar todo lo referente a bases de datos.
